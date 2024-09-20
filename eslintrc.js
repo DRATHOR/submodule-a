@@ -10,6 +10,7 @@ module.exports = {
     ecmaVersion: 2020, // Allows modern ECMAScript features
     sourceType: 'module', // Allows for the use of imports
   },
+  plugins: ['@typescript-eslint'],
   rules: {
     // Place to specify ESLint rules. Can be used to overwrite rules specified from the extended configs
     // e.g. "@typescript-eslint/explicit-function-return-type": "off",
