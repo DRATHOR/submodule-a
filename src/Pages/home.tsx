@@ -35,7 +35,10 @@ const Home = () => {
       quasi accusantium, nesciunt fuga quibusdam illo. In numquam praesentium ea. Nesciunt quaerat
       error asperiores reprehenderit recusandae fugiat labore, quia nemo laudantium doloremque,
       architecto facere quam expedita neque minus numquam sapiente dolor dicta sed nam odit, anand
-      anand anand anand anand anand anand
+      anand anand anand anand anand anand Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Numquam architecto nulla necessitatibus adipisci aliquam, quae cum ducimus dignissimos
+      corrupti! Magni necessitatibus possimus consequatur vel ullam libero quis error excepturi! Aut
+      dolorum esse in. Blanditiis quis aspernatur, eos quo tenetur mollitia!
     </div>
   );
 };
