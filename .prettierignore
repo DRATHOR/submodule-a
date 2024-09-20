@@ -1,0 +1,27 @@
+# Ignore node_modules directory
+node_modules/
+public/
+.github/
+
+# Ignore build output
+dist/
+build/
+
+# Ignore specific files
+src/someFile.js
+src/legacy/*.js
+eslint.config.mjs
+eslintrc.js
+.eslintignore
+package-lock.json
+tsconfig.json
+react-app-env.d.ts
+reportWebVitals.ts 
+.prettierrc
+package.json
+README.md
+
+# Ignore specific file types
+*.min.js
+*.lock
+
